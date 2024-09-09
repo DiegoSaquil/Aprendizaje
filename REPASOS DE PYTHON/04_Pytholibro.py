@@ -112,3 +112,57 @@ print(lista[3][2])
 
 #print(mesestraducidos["noviembre"])
 #print(mesestraducidos["mayo"])
+
+'''variablebooleana = True
+print(variablebooleana)'''
+
+#variablebooleana = False
+#print(variablebooleana)
+
+'''boolean1 = True
+boolean2 = True
+print(boolean1 and boolean2) #True
+'''
+
+#boolean1 = True
+#boolean2 = False
+#print(boolean1 and boolean2) #False
+
+'''
+boolean1 = False
+boolean2 = False
+print(boolean1 and boolean2) #False
+'''
+
+#boolean1 = True
+#boolean2 = True
+#print(boolean1 or boolean2) #true
+
+"""
+boolean1 = False
+boolean2 = True
+print(boolean1 or boolean2) #true 
+"""
+
+#boolean1 = False
+#boolean2 = False
+#print(boolean1 or boolean2) #false
+
+"""
+booleano = False
+print(not booleano) #true
+"""
+
+#booleano = True
+#print(not booleano) #False
+
+'''
+numero1 = 6
+numero2 = 9
+print(numero1 > numero2)
+print(numero1 >= numero2)
+print(numero1 < numero2)
+print(numero1 <= numero2)
+print(numero1 == numero2)
+print(numero1 != numero2)
+'''
