@@ -1,0 +1,2 @@
+En este documento de texto irán notas, etiquetas y estructuras que pueda usar como recordatorios para programar en HTML y CSS
+
