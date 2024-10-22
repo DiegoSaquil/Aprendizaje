@@ -14,8 +14,21 @@ index es de indice
  <li> list item o que son parte de una lista
  <ul> listas desordenadas
  <a href=""> para enlaces o hipervinculos se recomienda poner el https para seguridad
+ <img> etiqueta imagen que es la cual nos ayuda a cargar imagenes y no se cierra
+ <form> nos ayuda a crear formularios para un usuario
+ <input> donde nos brindan un dato el usuario
 
 target es un atributo y abren un enlace en la misma pagina
 title es un atributo para identificar y cuando pasamos el mouse por encima muestra informacion corta normalmente en imagenes.
 href es un atributo que nos refiere a un hipervinculo
+src es un atributo para cargar recursos 
+alt es otro atributo en el cual cargaremos un texto en todo caso la imagen no llegue a cargar
+../ nos ayuda a movernos entre carpetas relativas si fueran carpetas absolutas con el href es mas que suficiente. (para carpetas que estan detras del archivo que queremos)
 
+NOTA con src="algo/loque queremos que siga" es suficiente para mostrar una imagen en una carpeta o demas y aca es para carpetas o archivos que estan delante del que queremos
+
+type atributo de tipo para input
+required obliga al usuario a llenar algo en la etiqueta input
+name es un atributo de input para identificar valga la redundancia inputs
+placeholder es un atributo que muestra un pequeño texto que se muestra para explicarle al usuario que debe escribir 
+value es un atributo de inputs para acceder a lo que el usuario escribio
