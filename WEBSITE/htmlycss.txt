@@ -1,2 +1,15 @@
 En este documento de texto irán notas, etiquetas y estructuras que pueda usar como recordatorios para programar en HTML y CSS
+index es de indice
 
+ <!DOCTYPE> define la version de html que se usa
+ <html> define la estructura o todo lo que estara dentro de la pagina web
+ <head> es la parte de la info de una pagina
+ <title> el titulo de nuestra pagina
+ <body> todo lo visible de la web
+ <p> parrafos de una pagina
+ <h1> tenemos h1 hasta h6 que sirve para distintos tipos de encabezado
+ nota (es importante utilizar solo un h1)
+
+ <ol> ordered list o todo lo que este dentro sera parte de una lista
+ <li> list item o que son parte de una lista
+ <ul> listas desordenadas
