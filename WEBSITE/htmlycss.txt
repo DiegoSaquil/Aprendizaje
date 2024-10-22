@@ -13,3 +13,9 @@ index es de indice
  <ol> ordered list o todo lo que este dentro sera parte de una lista
  <li> list item o que son parte de una lista
  <ul> listas desordenadas
+ <a href=""> para enlaces o hipervinculos se recomienda poner el https para seguridad
+
+target es un atributo y abren un enlace en la misma pagina
+title es un atributo para identificar y cuando pasamos el mouse por encima muestra informacion corta normalmente en imagenes.
+href es un atributo que nos refiere a un hipervinculo
+
